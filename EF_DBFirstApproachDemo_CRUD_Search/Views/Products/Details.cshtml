@@ -1,0 +1,83 @@
+﻿@model EF_DBFirstApproachDemo.Product
+
+@{
+    ViewBag.Title = "Product Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Product Details</h2>
+
+<div class="product-details">
+    <hr />
+    <dl class="dl-horizontal">
+      
+        <dd>
+            <h3 style="color:blue;font-weight:bold;">@Html.DisplayFor(model => model.Name)</h3>
+        </dd>
+
+        
+        <dd>
+            @if (!string.IsNullOrEmpty(Model.FilePath))
+            {
+                <img src="@Url.Content($"~/Content/images/Products/{Model.FilePath}")" alt="Product Image" style="max-width: 300px; height: auto;" />
+            }
+            else
+            {
+                <span>No image available</span>
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price): @Model.Price.ToString("C") <!-- Format price as currency -->
+        </dt>
+        
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.storage): @Html.DisplayFor(model => model.storage)
+        </dt>
+       
+
+       
+        <dt>
+            @Html.DisplayNameFor(model => model.update_date):   @Html.DisplayFor(model => model.update_date, "{0:MMMM dd, yyyy}") <!-- Format date -->
+        </dt>
+        
+        <dt>
+            <label>Product Category:</label>  @Html.DisplayFor(model => model.Category.Name)
+        </dt>
+       
+    </dl>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.id }, new { @class = "btn btn-primary" }) |
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary" })
+</p>
+
+<style>
+    .product-details dt {
+        font-weight: bold;
+    }
+
+    .product-details dd {
+        margin-left: 0;
+        padding-left: 0;
+    }
+
+    .product-details img {
+        border: 1px solid #ddd;
+        padding: 5px;
+        background-color: #f9f9f9;
+    }
+
+    .btn {
+        margin: 0 5px;
+    }
+</style>

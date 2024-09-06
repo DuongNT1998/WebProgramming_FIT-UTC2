@@ -1,0 +1,72 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h2>THIS IS THE INDEX PAGE WITH FIRST ACTION METHOD</h2>
+        <!--Inline expression statement-->
+        <p>Today the date and time is : @DateTime.Now</p>
+        <p>Today the year is : @DateTime.Now.Year</p>
+
+        <hr />
+        <!--declaring variable-->
+        @{
+            string name = "Mr.DUONG";
+            var TodaysTime = DateTime.Now.ToLongTimeString();
+        }
+        <h4>My name is: @name </h4>
+        <h4>Today time is: @TodaysTime</h4>
+        <hr />
+        <!--Conditional statement-->
+        @{
+            int marks = 80;
+            if (marks >= 80)
+            {
+                <h3>Your grade is A type</h3>
+            }
+            else
+            {
+                <h3>Your grade is B type</h3>
+            }
+
+            var item = "Electronics";
+
+            switch (item)
+            {
+                case "Electronics":
+                    <p>This is an electronic product.</p>;
+                    break;
+                case "Clothing":
+                    <p>This is a clothing product.</p>;
+                    break;
+                case "Food":
+                    <p>This is a food product.</p>;
+                    break;
+                default:
+                    <p>Unknown category.</p>;
+                    break;
+            }
+
+            for(int i = 1; i <= 10; i++)
+            {
+                <h4>@i</h4>
+            }
+
+            string[] sport = { "Fooball", "Badminton", "Baeball", "Table tenis" };
+            foreach(string i in sport)
+            {
+                <h3>@i</h3>
+            }
+        }
+    </div>
+</body>
+</html>

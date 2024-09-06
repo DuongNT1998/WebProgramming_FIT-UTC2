@@ -1,0 +1,59 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <h2 style="color:blue">This is application form</h2>
+    <div class="form-group">
+    <!-- sử dụng "@@" trước các thuộc tính HTML nếu chúng trùng với các từ khóa trong C#. Trong trường hợp của type, nó không phải là từ khóa trong C#, do đó không cần dùng '@@' -->
+
+        @using (Html.BeginForm("Index", "Home"))
+        {
+        <div class="form-row">
+            @Html.Label("Your name: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("Name", "", new { @class = "form-input" })
+        </div>
+        <div class="form-row">
+            @Html.Label("Your age: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("Age", "", new { type = "number", min = "10", max = "100", @class = "form-input" })
+        </div>
+        <div class="form-row">
+            @Html.Label("Your phone number: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("PhoneNumber", "", new { type = "tel", pattern = "\\d{10}", title = "Phone number must be 10 digits", @class = "form-input" })
+        </div>
+        <div class="form-row">
+            @Html.Label("Email: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("Email", "", new { type = "email", @class = "form-input" })
+        </div>
+        <div class="form-row">
+            @Html.Label("Password: ", htmlAttributes: new { @class = "form-label" }) @Html.Password("Password", new { @class = "form-input" })
+        </div>
+        <div class="form-row">
+            @Html.Label("Gender: ", htmlAttributes: new { @class = "form-label" })
+            <div class="form-radio">
+                @Html.RadioButton("Gender", "Male") <label>Male</label> @Html.Raw("&nbsp;")
+                @Html.RadioButton("Gender", "Female") <label>Female</label> @Html.Raw("&nbsp;")
+                @Html.RadioButton("Gender", "Others") <label>Others</label>
+            </div>
+        </div>
+        <div class="form-row">
+            @Html.Label("Country: ", htmlAttributes: new { @class = "form-label" }) @Html.DropDownList("Country", new SelectList(new[] { "Vietnam", "China", "England" }), "Select Country", new { @class = "form-input" })
+        </div>
+        <div class="form-row">
+            @Html.Label("Your note: ", htmlAttributes: new { @class = "form-label" }) @Html.TextArea("Note", "", 10, 70, new { @class = "form-input" })
+        </div>
+        <div class="form-row" id="cbAccept">
+            @Html.CheckBox("AcceptTerm") @Html.Label("I accept the terms")
+        </div>
+        <div class="form-row" >
+            @Html.Hidden("id")
+            <input type="submit" value="Submit" class="form-submit" />
+        </div>
+        }
+    </div>
+</body>
+</html>

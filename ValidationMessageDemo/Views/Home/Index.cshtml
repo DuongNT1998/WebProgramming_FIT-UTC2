@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+<h2 style="color:blue">This is application form</h2>
+<p>
+    @Html.ValidationSummary("", new {@class = "text-danger"});
+</p>
+<div class="form-group">
+    @using (Html.BeginForm("Index", "Home"))
+    {
+
+        <div class="form-row">
+            @Html.Label("Your name: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("Name", "", new { @class = "form-input" })
+            @*@@Html.ValidationMessage("Name", "", new {@class="text-danger"})*@
+            @ViewData["NameError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Your age: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("Age", "", new { type = "number", min = "10", max = "100", @class = "form-input" })
+            @*@@Html.ValidationMessage("Age", "", new { @class = "text-danger" })*@
+            @ViewData["AgeError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Your phone number: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("PhoneNumber", "", new { type = "tel", pattern = "\\d{10}", title = "Phone number must be 10 digits", @class = "form-input" })
+            @*@@Html.ValidationMessage("PhoneNumber", "", new { @class = "text-danger" })*@
+            @ViewData["PhoneError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Email: ", htmlAttributes: new { @class = "form-label" }) @Html.TextBox("Email", "", new { type = "email", @class = "form-input" })
+            @*@Html.ValidationMessage("Email", "", new { @class = "text-danger" })*@
+            @ViewData["EmailError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Password: ", htmlAttributes: new { @class = "form-label" }) @Html.Password("Password", "", new { @class = "form-input" })
+            @*@Html.ValidationMessage("Password", "", new { @class = "text-danger" })*@
+            @ViewData["PasswordError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Confirm Password: ", htmlAttributes: new { @class = "form-label" }) @Html.Password("ConfirmPassword", "", new { @class = "form-input" })
+            @*@@Html.ValidationMessage("ConfirmPassword", "", new { @class = "text-danger" })*@
+            @ViewData["ConfirmPasswordError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Gender: ", htmlAttributes: new { @class = "form-label" })
+            <div class="form-radio">
+                @Html.RadioButton("Gender", "Male") <label> Male</label> @Html.Raw("&nbsp;")
+                @Html.RadioButton("Gender", "Female") <label> Female</label> @Html.Raw("&nbsp;")
+                @Html.RadioButton("Gender", "Others") <label> Others</label>
+            </div>
+            @*@Html.ValidationMessage("Gender")*@
+            @ViewData["GenderError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Country: ", htmlAttributes: new { @class = "form-label" }) @Html.DropDownList("Country", new SelectList(new[] { "Vietnam", "China", "England" }), "Select Country", new { @class = "form-input" })
+            @*@Html.ValidationMessage("Country", "", new { @class = "text-danger" })*@
+            @ViewData["CountryError"]
+        </div>
+        <div class="form-row">
+            @Html.Label("Your note: ", htmlAttributes: new { @class = "form-label" }) @Html.TextArea("Note", "", 10, 70, new { @class = "form-input" })
+            @*@Html.ValidationMessage("Note", "", new { @class = "text-danger" })*@
+            @ViewData["NoteError"]
+        </div>
+        <div class="form-row" id="cbAccept">
+            @Html.CheckBox("AcceptTerm") @Html.Label("I accept the terms")
+            @ViewData["AcceptTermError"]
+        </div>
+        <div class="form-row">
+            @Html.Hidden("id")
+            <input type="submit" value="Submit" class="form-submit" />
+        </div>
+        @Html.Raw(ViewData["SuccessMessage"]);
+
+    }
+</div>

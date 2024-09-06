@@ -1,0 +1,36 @@
+﻿@model List<StronglyTypedViewDemo.Models.Employee>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index2</title>
+</head>
+<body>
+    <div>
+        <h2>Send Data from Controller to View by using Strongly Typed View</h2>
+       
+        
+            @{  int stt = 1;
+                foreach (var i in Model)
+                {
+                    <p>The Employee @stt :</p>
+                        <ul>
+                            <li>Id: @i.Id</li>
+                            <li>Name: @i.Name</li>
+                            <li>Age: @i.Age</li>
+                        </ul>
+                        <hr />
+                   stt = stt + 1;
+                        
+
+                }
+            }
+        
+    </div>
+</body>
+</html>
