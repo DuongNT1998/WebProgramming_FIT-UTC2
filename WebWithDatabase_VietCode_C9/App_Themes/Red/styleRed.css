@@ -1,0 +1,3 @@
+﻿#navigation a:hover, #navigation a:active, #navigation a.selected {
+    color: red;
+}

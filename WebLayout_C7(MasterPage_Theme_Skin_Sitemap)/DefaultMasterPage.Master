@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="DefaultMasterPage.master.cs" Inherits="WebLayout_C7_.DefaultMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+          <div id =" container">
+      <div id="menu">
+          <asp:Menu ID="navigation" runat="server" DataSourceID="DefaultSiteMapDataSource" Orientation="Horizontal" StaticDisplayLevels="2"></asp:Menu>
+          <asp:SiteMapDataSource ID="DefaultSiteMapDataSource" runat="server" />
+      </div>
+      <div id="banner">
+          <asp:Image ID="imgBanner" runat="server" Width="100%" Height="43px" ImageUrl="~/images/banner.jpg" SkinID="banner"/>
+
+      </div>
+      <div id="breadcrumb">
+          <asp:SiteMapPath ID="DefaultSiteMapPath" runat="server"></asp:SiteMapPath>
+          <div id="search">
+              <asp:TextBox ID="txtKeyWord" runat="server"></asp:TextBox>
+              <asp:Button ID="btnSearch" runat="server" Text="Search" />
+          </div>
+      </div>
+      <div id="sidebar">
+          <asp:TreeView ID="TreeView1" runat="server" DataSourceID="DefaultSiteMapDataSource" ImageSet="Msdn"></asp:TreeView>
+          <asp:SiteMapDataSource ID="SpecialSiteMapDataSource" runat="server" SiteMapProvider="XmlSiteMapProvider" />
+      </div>       
+      <div id="content">
+          
+            <asp:ContentPlaceHolder ID="PlaceHolderContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+      </div>
+      <div class="clear"></div>
+      <div id="footer">Copyright &copy; 2024 by NTDuong </div>
+          
+  </div>
+      
+      
+    </form>
+</body>
+</html>

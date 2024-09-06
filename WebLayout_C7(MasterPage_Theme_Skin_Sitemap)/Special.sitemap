@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="Default.aspx" title="Trang chủ"  description="Homepage">
+		<siteMapNode url="~/News.aspx" title="Tin tức"  description="Our News" />
+		<siteMapNode url="~/Media.aspx" title="Truyền thông"  description="Our media" />
+		<siteMapNode url="~/Support.aspx" title="Hỗ trợ"  description="Our support" />
+
+
+		<siteMapNode url="~/Service.aspx" title="Dịch vụ"  description="Our service" >
+
+			<siteMapNode url="~/Personal.aspx" title="KH cá nhân"  description="Our service" />
+
+			<siteMapNode url="~/Company.aspx" title="KH doanh nghiệp"  description="Our service" />
+		</siteMapNode>
+		<siteMapNode url="~/About.aspx" title="Về chúng tôi"  description="About us" />
+		<siteMapNode url="~/Contact.aspx" title="Liên hệ"  description="Contact us" />
+
+	</siteMapNode>
+</siteMap>
