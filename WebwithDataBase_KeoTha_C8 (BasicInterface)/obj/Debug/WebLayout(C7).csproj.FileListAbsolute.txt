@@ -1,0 +1,177 @@
+D:\WebLayout(C7)\bin\WebLayout(C7).dll.config
+D:\WebLayout(C7)\bin\WebLayout(C7).dll
+D:\WebLayout(C7)\bin\WebLayout(C7).pdb
+D:\WebLayout(C7)\bin\roslyn\csc.exe
+D:\WebLayout(C7)\bin\roslyn\csc.exe.config
+D:\WebLayout(C7)\bin\roslyn\csc.rsp
+D:\WebLayout(C7)\bin\roslyn\csi.exe
+D:\WebLayout(C7)\bin\roslyn\csi.exe.config
+D:\WebLayout(C7)\bin\roslyn\csi.rsp
+D:\WebLayout(C7)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WebLayout(C7)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WebLayout(C7)\bin\roslyn\Microsoft.Managed.Core.targets
+D:\WebLayout(C7)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WebLayout(C7)\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\WebLayout(C7)\bin\roslyn\System.AppContext.dll
+D:\WebLayout(C7)\bin\roslyn\System.Collections.Immutable.dll
+D:\WebLayout(C7)\bin\roslyn\System.Console.dll
+D:\WebLayout(C7)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\WebLayout(C7)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\WebLayout(C7)\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WebLayout(C7)\bin\roslyn\System.Globalization.Calendars.dll
+D:\WebLayout(C7)\bin\roslyn\System.IO.Compression.dll
+D:\WebLayout(C7)\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\WebLayout(C7)\bin\roslyn\System.IO.FileSystem.dll
+D:\WebLayout(C7)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WebLayout(C7)\bin\roslyn\System.Net.Http.dll
+D:\WebLayout(C7)\bin\roslyn\System.Net.Sockets.dll
+D:\WebLayout(C7)\bin\roslyn\System.Reflection.Metadata.dll
+D:\WebLayout(C7)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\WebLayout(C7)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\WebLayout(C7)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\WebLayout(C7)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\WebLayout(C7)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\WebLayout(C7)\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\WebLayout(C7)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\WebLayout(C7)\bin\roslyn\System.ValueTuple.dll
+D:\WebLayout(C7)\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\WebLayout(C7)\bin\roslyn\System.Xml.XmlDocument.dll
+D:\WebLayout(C7)\bin\roslyn\System.Xml.XPath.dll
+D:\WebLayout(C7)\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\WebLayout(C7)\bin\roslyn\vbc.exe
+D:\WebLayout(C7)\bin\roslyn\vbc.exe.config
+D:\WebLayout(C7)\bin\roslyn\vbc.rsp
+D:\WebLayout(C7)\bin\roslyn\VBCSCompiler.exe
+D:\WebLayout(C7)\bin\roslyn\VBCSCompiler.exe.config
+D:\WebLayout(C7)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WebLayout(C7)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WebLayout(C7)\obj\Debug\WebLayout(C7).csproj.AssemblyReference.cache
+D:\WebLayout(C7)\obj\Debug\WebLayout(C7).csproj.CoreCompileInputs.cache
+D:\WebLayout(C7)\obj\Debug\WebLayou.4D41D8C2.Up2Date
+D:\WebLayout(C7)\obj\Debug\WebLayout(C7).dll
+D:\WebLayout(C7)\obj\Debug\WebLayout(C7).pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\WebLayout(C7).dll.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\WebLayout(C7).dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\WebLayout(C7).pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\csc.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\csc.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\csc.rsp
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\csi.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\csi.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\csi.rsp
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.AppContext.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Collections.Immutable.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Console.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.IO.Compression.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.IO.FileSystem.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Net.Http.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Net.Sockets.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.ValueTuple.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Xml.XPath.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\vbc.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\vbc.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\vbc.rsp
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\VBCSCompiler.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\roslyn\VBCSCompiler.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\obj\Debug\WebLayout(C7).csproj.AssemblyReference.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\obj\Debug\WebLayout(C7).csproj.CoreCompileInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\obj\Debug\WebLayou.4D41D8C2.Up2Date
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\obj\Debug\WebLayout(C7).dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebLayout_C7\obj\Debug\WebLayout(C7).pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\WebLayout(C7).dll.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\WebLayout(C7).dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\WebLayout(C7).pdb
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\csc.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\csc.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\csc.rsp
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\csi.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\csi.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\csi.rsp
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.AppContext.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Collections.Immutable.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Console.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Globalization.Calendars.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.IO.Compression.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.IO.FileSystem.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Net.Http.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Net.Sockets.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Reflection.Metadata.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.ValueTuple.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Xml.XPath.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\vbc.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\vbc.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\vbc.rsp
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\VBCSCompiler.exe
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\roslyn\VBCSCompiler.exe.config
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\obj\Debug\WebLayout(C7).csproj.AssemblyReference.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\obj\Debug\WebLayout(C7).csproj.CoreCompileInputs.cache
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\obj\Debug\WebLayou.4D41D8C2.Up2Date
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\obj\Debug\WebLayout(C7).dll
+D:\Tài liệu giảng dạy UIT\Tài liệu UTC2\Lập trình Web (ASP.NET)\Tài liệu - DuongNT\Ly Thuyet\WebwithDataBase_KeoTha_C8 (BasicInterface)\obj\Debug\WebLayout(C7).pdb
