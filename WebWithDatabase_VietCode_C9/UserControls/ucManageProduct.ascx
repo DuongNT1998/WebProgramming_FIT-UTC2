@@ -1,4 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ucManageProduct.ascx.cs" Inherits="WebLayout_C7_.UserControls.ucManageProduct" %>
+<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ucManageProduct.ascx.cs" Inherits="WebLayout_C7_.UserControls.ucManageProduct" %>
 <table style="width:100%;">
     <tr>
         <td>Product name:</td>
@@ -37,6 +37,7 @@
     </tr>
 </table>
 
+<hr />
 <asp:GridView ID="GridViewProducts" AllowPaging="true" PageSize="5"  AutoGenerateColumns="false" runat="server" OnRowCommand="GridViewProducts_RowCommand" OnPageIndexChanging="GridViewProducts_PageIndexChanging" DataKeyNames="id">
 <Columns>
     <asp:TemplateField HeaderText="No.">
@@ -56,11 +57,29 @@
     </asp:TemplateField>
     <asp:TemplateField>
         <ItemTemplate>
-            <asp:Button runat="server" OnClientClick="return confirm('Do you really want to delete this product?');" ID="DeleteButton" Text="Delete" CommandName="Xoa" CommandArgument='<%# Eval("id") %>'/>
+            <asp:Button runat="server" OnClientClick="return confirm('Do you really want to delete this product?');" ID="DeleteButton" Text="Delete" CommandName="DeleteProduct" CommandArgument='<%# Eval("id") %>'/>
         </ItemTemplate>
     </asp:TemplateField>
+
+
+        <asp:TemplateField>
+    <ItemTemplate>
+        <asp:Button ID="btnEdit" runat="server" Text="Edit" CommandName="EditProduct" CommandArgument='<%# Eval("id") %>' />
+    </ItemTemplate>
+</asp:TemplateField>
 </Columns>
 </asp:GridView>
+<hr />
+<asp:Panel ID="pnlEditProduct" runat="server" Visible="false">
+    <asp:Label ID="lblProductId" runat="server" Text="" Visible="false"></asp:Label>
+    <asp:TextBox ID="txtEditProductName" runat="server" placeholder="Product Name"></asp:TextBox>
+    <asp:TextBox ID="txtEditProductPrice" runat="server" placeholder="Product Price"></asp:TextBox>
+    <asp:TextBox ID="txtEditProductDescription" runat="server" placeholder="Product Description"></asp:TextBox>
+    <asp:DropDownList ID="dpEditProductCategory" runat="server"></asp:DropDownList>
+    <asp:FileUpload ID="fulEditImageProduct" runat="server" />
+    <asp:Button ID="btnUpdateProduct" runat="server" Text="Update" OnClick="btnUpdateProduct_Click" />
+    <asp:Button ID="btnCancelUpdate" runat="server" Text="Cancel" OnClick="btnCancelUpdate_Click" />
+</asp:Panel>
 
 
 
