@@ -1,1 +1,26 @@
 
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>Index</h2>
+
+<h3> Thông tin nhân viên! </h3>
+
+@{
+    var a = ViewBag.Employee;
+    <p>@a.EmpId</p>
+    <p>@a.EmpName</p>
+    <p>@a.EmpDept</p>
+}
+</body>
+</html>
